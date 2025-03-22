@@ -60,3 +60,40 @@ h3{
     border-radius: 0.5em;
     padding: 10px 50px;
 }
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 50px;
+    gap: 10px;
+    background-color: linear-gradient(to bottom, rgb(0, 31, 131), rgb(109, 153, 255));;
+    box-shadow: inset 15px 15px 20px rgba(0, 0, 0, 0.1), inset -15px -15px 20px rgba(0, 0, 0, 0.1);
+    font-size: 1.2em;
+    color: white;
+    font-weight: bold;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.footer img {
+    width: 30px;
+    height: 30px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+.footer a:hover {
+    color: rgb(109, 153, 255);
+}
