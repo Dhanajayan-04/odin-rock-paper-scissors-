@@ -22,7 +22,7 @@ To try out the odin-rock-paper-scissors application, follow these steps:
 
 1. Visit the [Live Demo](https://dhanajayan-04.github.io/odin-rock-paper-scissors-/)to play directly in your browser.
 
-2. Alternatively, you can clone this repository and open the `index.html` file in your web browser.
+2. Alternatively, you can clone this repository by open the `index.html` file in your web browser.
 
 ## Development
 
